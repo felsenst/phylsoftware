@@ -8,7 +8,7 @@ These listings started as a list of 17 phylogeny packages or programs that was p
 
 ## The files
 
-The pages are the ones that start with "software" and are HTML web pages.  The icons used in the program/package entries and in the visual display at the top of the initial page are small 32x32 graphic files in folder "icons".
+The pages are the ones that start with "software" and are HTML web pages.  The front page is [software.html](software.html) The icons used in the program/package entries and in the visual display at the top of the initial page are small 32x32 graphic files in folder "icons".
 
 ## What you can or should do
 
